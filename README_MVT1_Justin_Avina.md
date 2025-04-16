@@ -63,6 +63,6 @@ You may use, modify, distribute, and commercialize any part of this work without
 ## Contact & Community
 
 You are free to contribute, build upon this work, or collaborate in good faith.  
-Contact: [YourEmail@domain.com] (or share links to connect)
+Contact: [avinajustin5@icloud.com] (or share links to connect)
 
 Let’s build the future together — a world lit by compassion, knowledge, and freedom.
