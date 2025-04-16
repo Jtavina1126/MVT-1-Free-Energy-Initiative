@@ -24,6 +24,15 @@ To provide free energy to all people without ownership, restriction, or corporat
 
 ---
 
+## Non-Commercial Use Declaration
+
+This project is freely given to humanity and may not be sold, licensed, or restricted.  
+Read the official declaration here:
+
+[Download MVT-1 Non-Commercial Use Declaration (PDF)](./MVT_Non_Commercial_Use_Declaration_Justin_Avina.pdf)
+
+---
+
 ## License
 
 **CC0 1.0 Universal (Public Domain Dedication)**  
